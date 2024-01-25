@@ -1,7 +1,7 @@
 [![GitHub Logo](https://graph.org/file/b08506b345f39971a004c.jpg)](https://github.com/runixe786/Macified_Windows)
     <h1 align="center">Macified-Windows</h1>
 
-<p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. If you are interested in macifying your Windows 11 PC.</p>
+<p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. Lets begin macifying your Windows 11 desktop :) .</p>
 
 <p align="center">
  <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
