@@ -16,3 +16,12 @@
         <img style="width:250px" alt="buymeacoffee" src="https://i.imgur.com/fxJ4BNq.png">
     </a>
 </p>
+
+# Table of Contents
+
+* [Final Look](#Final-Look)
+* [Themes](#Themes)
+* [Wallpapers](#Wallpapers)
+* [Rainmeter widgets](#Rainmeter-widgets)
+* [Dock and menu bar](#Dock-and-menu-bar)
+* [Stage manager](#Stage-manager)
