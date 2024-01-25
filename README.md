@@ -25,3 +25,9 @@
 * [Rainmeter widgets](#Rainmeter-widgets)
 * [Dock and menu bar](#Dock-and-menu-bar)
 * [Stage manager](#Stage-manager)
+
+# Final Look
+
+So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
+
+
