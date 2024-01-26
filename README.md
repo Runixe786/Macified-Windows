@@ -30,4 +30,11 @@
 
 So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
 
-
+<p align="center">
+  <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
+  <img src='https://graph.org/file/fc4b4430bf56bb80f2380.jpg' width='700'>
+  <img src='https://graph.org/file/322fac655fe45808bcca0.jpg' width='700'>
+  <img src='https://graph.org/file/44012347491ac2af73e60.jpg' width='700'>
+  <img src='https://graph.org/file/b6d2f50a94e557367f9fc.jpg' width='700'>
+  <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
+</p>
