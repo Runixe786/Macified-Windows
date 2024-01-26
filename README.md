@@ -73,7 +73,7 @@ Note: This is my first rainmeter project so this package include some basic skin
 
 This is the most demanded thing.So yes, lets get started.
 
-**Step 1**: Extract the dock_MacifiedWindows.rar file. There will be mydockfinder folder which you gotta open
+**Step 1**: Extract the dock_MacifiedWindows.rar file. There will be "dock_macifiedwindows" folder which you gotta open. Again same folder (same name) will appear and open it again. (sorry for this duplication, i forgot to fix)
 
 **Step 2**: Inside that folder, there will be many folders and files. Find the dock_64.exe file or dock.exe and open it. 
 
