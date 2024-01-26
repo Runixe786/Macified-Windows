@@ -89,7 +89,7 @@ _You will notice taskbar overlaying on dock or menu bar not appeared. So you hav
  
 # Stage Manager
 
-Open preferences option as you did in step 4 of [Dock and menu bar](Dock-and-menu-bar). Keep the same settings as shown in screenshot below
+Open preferences option as you did in step 4 of [Dock and menu bar](https://github.com/Runixe786/Macified-Windows#dock-and-menu-bar). Keep the same settings as shown in screenshot below
 
 <p align="left">
   <img src='https://graph.org/file/9f2cff946556f52f8579c.jpg' width='800'>
