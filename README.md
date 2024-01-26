@@ -38,3 +38,15 @@ So this is how the final look on your windows desktop will come out. Its always 
   <img src='https://graph.org/file/b6d2f50a94e557367f9fc.jpg' width='700'>
   <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
 </p>
+
+# Themes
+
+**Step 1**: extract the zip file and you will find a file called ThemePatcher. Open it, give permissions and patch the "Themeui" and "uxinit" by clicking on install button. Let it do its work. when its done, it will ask to reboot your pc which you gotta do. 
+
+**Step 2**: After rebooting, go to same folder and find the Themes zip file. Extract it, and go to following path: Themes_MacifiedWindows\macOS for Windows 11 22H2 - Mar 12 2023. In this folder you will find a folder called "Windows 11 22H2 Themes". Copy all files inside it and paste it to C:\Windows\Resources\Themes folder.
+
+**Step 3**: Go to settings>personalisation>themes and select the 2nd dark theme of MacOS (MacOS-dark solid, 6 images) as first one has some bugs. Apply and with this, you will notice some changes in UI elements. 
+
+Lets move ahead to wallpapers now :) 
+ 
+ 
