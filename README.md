@@ -67,4 +67,21 @@ These widgets are already set according to the values i have filled (size and po
 
 **Note:** These widgets belong to different rainmeter skins i found from various sources. i combined all of them into one and removed those which arent useful. There might be some bugs in it related to settings. But you can easily change their shape by right clicking on widget and choosing "alternative" option. You can change their position too by dragging them (double click + hold + drag).
 
-Note: This is my first rainmeter project so this package include some basic skins only. i will update this widgets package with more skins as i learn more. You can also suggest rainmeter widgets of macOS style you want to add in this skin (do provide link of that existing skin you wish to add it in this widget pack)  
+Note: This is my first rainmeter project so this package include some basic skins only. i will update this widgets package with more skins as i learn more. You can also suggest rainmeter widgets of macOS style you want to add in this skin (do provide link of that existing skin you wish to add it in this widget pack) 
+
+# Dock and menu bar
+
+This is the most demanded thing.So yes, lets get started.
+
+Step 1: Extract the dock_MacifiedWindows.rar file. There will be mydockfinder folder which you gotta open
+
+Step 2: Inside that folder, there will be many folders and files. Find the dock_64.exe file or dock.exe and open it. 
+
+Step 3: Boom, thats it. Dock and menu bar will appear. 
+
+You will notice taskbar overlaying on dock or menu bar not appeared. So you have to change some settings 
+
+Step 4: Bring your mouse over dock and right click on some empty space. Select "preferences" from the list that appears which will open a settings page. Open advanced settings on sidebar (leftside) and scroll to last where you will find an option called "dock layout backup". Open the drop down list there and select "Macified Windows". It will ask to restore that backup and then the app will restart itself. Thats all, your dock is now fully setup 
+
+**Note**: You might notice that some applications on dock dont open. This is because they arent installed in your PC/laptop. You can remove that icon and add your favourite ones. Menubar doesnt need much changes. you can customise it as per your likings. 
+ 
