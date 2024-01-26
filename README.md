@@ -28,6 +28,8 @@
 * [System & dock icons](#System-&-dock-icons)
 * [File Explorer](#File-Explorer)
 * [Cursors](#Cursors)
+* [Extra customisations](#Extra-customisations)
+* [Credits](#Credits)
 
 # Final Look
 
