@@ -25,6 +25,7 @@
 * [Rainmeter widgets](#Rainmeter-widgets)
 * [Dock and menu bar](#Dock-and-menu-bar)
 * [Stage manager](#Stage-manager)
+* [More to be updated later](#more-to-be-updated-later)
 
 # Final Look
 
@@ -49,4 +50,9 @@ So this is how the final look on your windows desktop will come out. Its always 
 
 Lets move ahead to wallpapers now :) 
  
- 
+# Wallpapers
+
+Setting the MacOS Wallpaper in beginning will start giving you a vibe of it so you dont get lazy and bored while doing all steps. So go download the zip file of wallpapers or if you have downloaded the full package, you can simply find wallpapers zip inside it. extract it and choose any wallpaper which suits your taste. 
+
+i added around 50+ high quality wallpapers originally extracted from MacOS. These are my favs so you dont have to look out for more. 
+still incase you dont like them or dont wanna spend 200mb on walpaper alone, [you can get individual files here](https://t.me/macOSWallpaper)
