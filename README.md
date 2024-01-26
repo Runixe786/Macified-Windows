@@ -30,6 +30,7 @@
 * [Cursors](#Cursors)
 * [Extra customisations](#Extra-customisations)
 * [Credits](#Credits)
+* [Feedback](#Feedback)
 
 # Final Look
 
@@ -138,5 +139,20 @@ You can achieve blurry macOS look in file explorer using ExplorerBlurMica shared
 Coming soon
 
 # Credits
+This repo is all written and maintained by me aka [Sahil](https://t.me/MaybeSahil)
 
-Coming soon
+[Aqua](https://t.me/burhanverse) and [blueboy](https://t.me/burhanverse) for testing some tools.
+
+[Unknown](https://t.me/Danc2livee) for project name. 
+
+[Samcux on youtube](https://www.youtube.com/@samcux) for guides.
+
+and respective app/softwares developers whose products i used in this project. 
+
+
+# Feedback 
+If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new issue or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+
+You can join our support channel where i will post beta updates to test new versions. [here is the link](https://t.me/MacifiedWindows)
+
+Do star this repo to show your support and share as well, means a lot. Thanks, see yaa 💝
