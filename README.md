@@ -56,3 +56,15 @@ Setting the MacOS Wallpaper in beginning will start giving you a vibe of it so y
 
 i added around 50+ high quality wallpapers originally extracted from MacOS. These are my favs so you dont have to look out for more. 
 still incase you dont like them or dont wanna spend 200mb on walpaper alone, [you can get individual files here](https://t.me/macOSWallpaper)
+
+# Rainmeter widgets
+
+Firstly you have to setup rainmeter app. Download it from [here](https://www.rainmeter.net/) and install it. 
+
+open the Macified Windows folder and look for widgets file (rmskin extension) . Double click on it and simply install the widgets. 
+
+These widgets are already set according to the values i have filled (size and position) . Incase they dont load on their own after installing, open rainmeter app, select Macified windows from sidebar, expand it and load individual widgets seprately as per your choice.
+
+**Note:** These widgets belong to different rainmeter skins i found from various sources. i combined all of them into one and removed those which arent useful. There might be some bugs in it related to settings. But you can easily change their shape by right clicking on widget and choosing "alternative" option. You can change their position too by dragging them (double click + hold + drag).
+
+Note: This is my first rainmeter project so this package include some basic skins only. i will update this widgets package with more skins as i learn more. You can also suggest rainmeter widgets of macOS style you want to add in this skin (do provide link of that existing skin you wish to add it in this widget pack)  
