@@ -132,3 +132,11 @@ You can achieve blurry macOS look in file explorer using ExplorerBlurMica shared
 **Step 1:** Extract cursors zip file and open the folder which appears. You will see a file called "install.inf". Right click on it and choose install option. Now the cursor pack is installed
 
 **Step 2:** Go to settings>personalisation>Themes>Mouse cursors which will open a new window called "mouse properties" . open the drop-down list in scheme under "pointers" category. Select "mac :)" from there and apply. click ok and now its done. 
+
+# Extra customisations 
+
+Coming soon
+
+# Credits
+
+Coming soon
