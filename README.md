@@ -26,6 +26,8 @@
 * [Dock and menu bar](#Dock-and-menu-bar)
 * [Stage manager](#Stage-manager)
 * [System & dock icons](#System-&-dock-icons)
+* [File Explorer](#File-Explorer)
+* [Cursors](#Cursors)
 
 # Final Look
 
@@ -118,3 +120,13 @@ Step 3: click on existing icon which will take you to file explorer to choose ne
 Step 4: Now its applied but wait, dont close the windows. You will see an option "scale icon to macOS standards" which will be already ticked. untick and tick it back. Now click ok on top right corner. 
 
 Step 5: All done, your new icon is applied.
+
+# File Explorer
+
+You can achieve blurry macOS look in file explorer using ExplorerBlurMica shared in releases tab. Extract the zip file and follow [this guide](https://graph.org/%D1%95%CE%B1n%CE%B9%E2%84%93-10-13) . choose effects as blur (put value as 0) . More instructions in Extra customisations shared in the end.
+
+# Cursors 
+
+Extract cursors zip file and open the folder which appears. YOu will see a file called "install.inf". Right click on it and choose install option. Now the cursor pack is installed
+
+Step 2: Go to settings>personalisation>Themes>Mouse cursors which will open a new window called "mouse properties" . open the drop-down list in scheme under "pointers" category. Select "mac :)" from there and apply. click ok and now its done. 
