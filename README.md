@@ -12,7 +12,9 @@
     <a href="https://t.me/DroidDenn">
         <img align="center" src="https://img.shields.io/badge/Made%20With%20♥-by%20Sahil-orange?style=style=flat">   
     </a>
-    <a href="https://github.com/runixe786/Macified-Windows"><img src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
+    <a href="https://github.com/runixe786/Macified-Windows">
+        <img align="center" src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=stars">
+    </a>
 </p>
 
 <p align="center">
