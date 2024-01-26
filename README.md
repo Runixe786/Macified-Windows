@@ -155,4 +155,4 @@ If you find any broken or wrong text or link Please report me or if you want to 
 
 You can join our support channel where i will post beta updates to test new versions. [here is the link](https://t.me/MacifiedWindows)
 
-Do star this repo to show your support and share as well, means a lot. Thanks, see yaa 💝
+**Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
