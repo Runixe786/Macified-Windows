@@ -87,3 +87,10 @@ _You will notice taskbar overlaying on dock or menu bar not appeared. So you hav
 
 **Note**: You might notice that some applications on dock dont open. This is because they arent installed in your PC/laptop. You can remove that icon and add your favourite ones. Menubar doesnt need much changes. you can customise it as per your likings. 
  
+# Stage Manager
+
+Open preferences option as you did in step 4 of [Dock and menu bar](Dock-and-menu-bar). Keep the same settings as shown in screenshot below
+
+<p align="left">
+  <img src='https://graph.org/file/9f2cff946556f52f8579c.jpg' width='800'>
+</p>
