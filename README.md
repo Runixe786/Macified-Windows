@@ -25,7 +25,7 @@
 * [Rainmeter widgets](#Rainmeter-widgets)
 * [Dock and menu bar](#Dock-and-menu-bar)
 * [Stage manager](#Stage-manager)
-* [More to be updated later](#more-to-be-updated-later)
+* [System & dock icons](#System-&-dock-icons)
 
 # Final Look
 
@@ -94,3 +94,27 @@ Open preferences option as you did in step 4 of [Dock and menu bar](https://gith
 <p align="left">
   <img src='https://graph.org/file/9f2cff946556f52f8579c.jpg' width='800'>
 </p>
+
+# System & dock icons
+
+_Lets change system icons first, to that of macOS. _
+
+**Step 1:** You extracted themes_macifiedwindows.zip in #Themes segment. Open the extracted folder which will open folder "macOS for Windows 11 22H2 - Mar 12 2023" . open this folder too and then open folder called "7tsp for Control Panel and Winver Colors" . Inside it rename the file "7tsp macOS Day & Dark EXTRAS.7z.remove" by deleting ".remove" so its extension changes to 7z
+
+**Step 2:** Go back one step and open folder called "7tsp icon themes" . Do the same thing here by deleting .remove so its extension changes to 7z. 
+
+**Step 3:** Go back to main folder and extract "7tsp_MacifiedWindows.zip". Extract it, rename the 7tsp.ee file to 7tsp.exe (add x in between the extension "ee" ) . Now its an exe file and open it, give permissions and wait a sec for it to open. 
+
+**Step 4:** When its launched, you will see a button called "add a custom pack" . click it and select the 7z file you got in step 1. Patch it and reboot pc. Do the same process again with 7z file in step 2. With this, you will have MacOS icon pack installed in your pc.
+
+_Now time for dock icons. This is a tough job as you gotta download icon for every app (you want to have on dock) and then apply it manually._
+  
+**Step 1:** To do this, download icon (png or jpg) from google search. Make sure they are with transparent background or you can remove background using edit feature of photos app. 
+
+Step 2: Right click on app icon on dock whose icon you wanna edit. Choose "edit this icon" and a windows will pop-up. 
+
+Step 3: click on existing icon which will take you to file explorer to choose new icon. CHoose the downloaded icon file and select ok.
+
+Step 4: Now its applied but wait, dont close the windows. You will see an option "scale icon to macOS standards" which will be already ticked. untick and tick it back. Now click ok on top right corner. 
+
+Step 5: All done, your new icon is applied.
