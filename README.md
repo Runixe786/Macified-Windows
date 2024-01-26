@@ -101,7 +101,7 @@ Open preferences option as you did in step 4 of [Dock and menu bar](https://gith
 
 # System & dock icons
 
-_Lets change system icons first, to that of macOS. _
+_Lets change system icons first, to that of macOS._
 
 **Step 1:** You extracted themes_macifiedwindows.zip in #Themes segment. Open the extracted folder which will open folder "macOS for Windows 11 22H2 - Mar 12 2023" . open this folder too and then open folder called "7tsp for Control Panel and Winver Colors" . Inside it rename the file "7tsp macOS Day & Dark EXTRAS.7z.remove" by deleting ".remove" so its extension changes to 7z
 
@@ -129,6 +129,6 @@ You can achieve blurry macOS look in file explorer using ExplorerBlurMica shared
 
 # Cursors 
 
-Extract cursors zip file and open the folder which appears. YOu will see a file called "install.inf". Right click on it and choose install option. Now the cursor pack is installed
+**Step 1:** Extract cursors zip file and open the folder which appears. You will see a file called "install.inf". Right click on it and choose install option. Now the cursor pack is installed
 
-Step 2: Go to settings>personalisation>Themes>Mouse cursors which will open a new window called "mouse properties" . open the drop-down list in scheme under "pointers" category. Select "mac :)" from there and apply. click ok and now its done. 
+**Step 2:** Go to settings>personalisation>Themes>Mouse cursors which will open a new window called "mouse properties" . open the drop-down list in scheme under "pointers" category. Select "mac :)" from there and apply. click ok and now its done. 
