@@ -4,15 +4,14 @@
 <p align="center">This repository contains information and tools that I use to make my Windows 11 desktop look like macOS. I will share the steps and resources that I followed to achieve this transformation, as well as some screenshots of the final result. Lets begin macifying your Windows 11 desktop :) .</p>
 
 <p align="center">
+<img src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=stars">
  <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/runixe786/Macified-Windows/total">
     <a href="https://t.me/MacifiedWindows">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue.svg"> 
-<img href="https://t.me/DroidDenn">
-        <img align="center" src="https://img.shields.io/badge/Made%20With%20♥️-by%20Sahil-orange?style=style=flat">   
-    </a>
-    <a href="https://github.com/runixe786/Macified-Windows">
-        <img align="center" src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=stars">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue.svg">  
+<a href="https://t.me/DroidDenn">
+        <img src="https://img.shields.io/badge/Made%20With%20♥️-by%20Sahil-orange?style=style=flat">   
+    </a> 
     </a>
 </p>
 
@@ -20,12 +19,14 @@
   <a href="https://t.me/DroidDenn">
     <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDenn"
   alt="Telegram">
-  </a>
+<a href="https://t.me/DroidDiscussion">
+    <img src="https://img.shields.io/endpoint?&style=for-the-badge&colorA=e4edf2&colorB=004a77&logo=telegram&logoColor=34849f&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDroidDiscussion"
+        alt="Telegram"> </a>
+  </p>
 <p align="center">
     <a href="https://www.buymeacoffee.com/sahilseth2s">
         <img style="width:250px" alt="buymeacoffee" src="https://i.imgur.com/fxJ4BNq.png">
     </a>
-</p>
 </p>
 
 # Table of Contents
