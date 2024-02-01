@@ -165,6 +165,6 @@ and respective app/softwares developers whose products i used in this project.
 # Feedback 
 If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Macified-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
 
-You can join our support channel where i will post beta updates to test new versions. [here is the link](https://t.me/MacifiedWindows)
+You can join our support channel where i will post beta updates to test new versions. [here is the link](https://t.me/GithubGeeks)
 
 **Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
