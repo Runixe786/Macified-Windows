@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/stars/runixe786/Macified-Windows.svg?style=flat&logo=github&colorB=deeppink&label=stars">
  <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/runixe786/Macified-Windows">
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/runixe786/Macified-Windows/total">
-    <a href="https://t.me/MacifiedWindows">
+    <a href="https://t.me/GithubGeeks">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-blue.svg">  
 <a href="https://t.me/DroidDenn">
         <img src="https://img.shields.io/badge/Made%20With%20♥️-by%20Sahil-orange?style=style=flat">   
